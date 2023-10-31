@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![prewiew](https://github.com/Petrichor38/animals/blob/main/public/animal.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
